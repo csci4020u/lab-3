@@ -144,7 +144,7 @@ have the following directory structure.
 > ./src
 > ├── main
 > │   ├── antlr
-> │   │   └── JLexer.java
+> │   │   └── JLexer.g4
 > │   └── java
 > │       └── Main.java
 > └── test
