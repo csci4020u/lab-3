@@ -192,7 +192,7 @@ It should look like this:
 Now try:
 
 ```
-$ gradle bulid
+$ gradle build
 $ gradle run
 ```
 
